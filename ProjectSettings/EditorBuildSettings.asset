@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Mainmenu.unity
+    guid: 68ed88a309221cf46ab187441e303a20
+  - enabled: 1
+    path: Assets/Scenes/DLL_menu.unity
+    guid: 046eff3303bf40f49bab78e5e4516fce
+  - enabled: 1
+    path: Assets/Scenes/Error-control.unity
+    guid: d34af350b1ecf4143963074ae6885285
+  - enabled: 1
+    path: Assets/Scenes/Transport_menu.unity
+    guid: 7c19c6acfcaf3f34d8053433eee01b50
+  - enabled: 1
+    path: Assets/Scenes/Data_Link_layer.unity
+    guid: 5825407a6f477384ba87a3c16461224e
+  - enabled: 1
+    path: Assets/Scenes/Error_control_1.unity
+    guid: 799290e09fe18cd4792d7c5fddad0f29
+  m_configObjects:
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: bf1ffdf53e142b446ae169d6d2aa8520, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 455bef083e4e5974ba44de9fd414a400, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
